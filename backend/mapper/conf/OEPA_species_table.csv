@@ -2422,8 +2422,7 @@ G_ID,SCIENTIFIC_NAME,ACRONYM,AUTHORITY,COFC,SYN,COMMON_NAME,FAMILY,FN,WET,FORM,H
 2437,Rorippa sylvestris,RORSYL,(L.) Besser,0,syn,CREEPING YELLOW CRESS,Brassicaceae,,FACW,forb,PE,full,ROSY,,DI,adventive,FACW,OBL,OBL,
 2438,Rosa arkansana,ROSARK,Porter,4,syn,PRAIRIE ROSE,Rosaceae,,UPL,shrub,W,full,ROAR3,X,DI,native,FACU,FACU,FACU,
 2439,Rosa blanda,ROSBLA,Aiton,4,,SMOOTH ROSE,Rosaceae,,FACU,shrub,W,full,ROBL,T,DI,native,FACU,FACU,FACU,
-2440,Rosa canina,ROSCAN,L.,0,,DOG ROSE,Rosaceae,,UPL,shrub,W,advent,ROCA3,,DI,adventive,,,,
-2441,Rosa carolina,ROSCAR,L.,4,,PASTURE ROSE,Rosaceae,,UPL,shrub,W,full,ROCA4,,DI,native,FACU,FACU,FACU,
+2440,Rosa canina,ROSCAN,L.,0,,DOG ROSE,Rosaceae,,UPL,shrub,W,advent,ROCA3,,DI,adventive,,,,2441,Rosa carolina,ROSCAR,L.,4,,PASTURE ROSE,Rosaceae,,UPL,shrub,W,full,ROCA4,,DI,native,FACU,FACU,FACU,
 2442,Rosa eglanteria,ROSEGL,L.,0,,SWEETBRIAR,Rosaceae,,UPL,shrub,W,advent,ROEG,,DI,adventive,UPL,UPL,FACU,
 2443,Rosa gallica,ROSGAL,L.,0,,FRENCH ROSE,Rosaceae,,UPL,shrub,W,advent,ROGA,,DI,adventive,,,,
 2444,Rosa majalis,ROSMAJ,Herrm.,0,,CINNAMON ROSE,Rosaceae,,UPL,shrub,W,advent,ROMA81,,DI,adventive,,,,
@@ -2442,7 +2441,7 @@ G_ID,SCIENTIFIC_NAME,ACRONYM,AUTHORITY,COFC,SYN,COMMON_NAME,FAMILY,FN,WET,FORM,H
 2457,Rubus flagellaris,RUBFLA,Willd.,0,,NORTHERN DEWBERRY,Rosaceae,408,FACU,shrub,W,partial,RUFL,,DI,adventive,FACU,FACU,FACU,
 2458,Rubus hispidus,RUBHIS,L.,5,,SWAMP DEWBERRY,Rosaceae,409,FACW,forb,PE,partial,RUHI,,DI,native,FACW,FACW,FACW,
 2459,Rubus idaeus var. strigosus,RUBIDAS,(Michx.) Maxim.,6,syn,WILD RED RASPBERRY,Rosaceae,,FAC,shrub,W,full,RUIDS2,,DI,native,FAC,FACU,FACU,syn. Rubus idaeus
-2460,Rubus ideaus var. ideaus,RUBIDAI,L.,0,,RED RASPBERRY,Rosaceae,,FAC,shrub,W,full,RUIDI,,DI,adventive,FAC,FACU,FACU,syn. Rubus idaeus
+2460,Rubus idaeus var. idaeus,RUBIDAI,L.,0,,RED RASPBERRY,Rosaceae,,FAC,shrub,W,full,RUIDI,,DI,adventive,FAC,FACU,FACU,syn. Rubus idaeus
 2461,Rubus laciniatus,RUBLAC,Willd.,0,,CUT-LEAVED BLACKBERRY,Rosaceae,,UPL,shrub,W,advent,RULA,,DI,adventive,UPL,UPL,UPL,
 2462,Rubus occidentalis,RUBOCC,L.,1,,BLACK RASPBERRY,Rosaceae,,UPL,shrub,W,full,RUOC,,DI,native,,,,
 2463,Rubus odoratus,RUBODO,L.,5,,FLOWERING RASPBERRY,Rosaceae,,UPL,shrub,W,full,RUOD,,DI,native,,,,
